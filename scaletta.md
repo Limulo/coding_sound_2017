@@ -23,11 +23,12 @@ OSC & MIDI
 	- Touchboard + Bareconductive paint
 
 - SW + HW [20 min]
+	
 	-soundface:
 	
-		* struttura/architettura
-		* fuducials
-		* patches (PD e/o SC)
+	  * struttura/architettura
+	  * fuducials
+	  * patches (PD e/o SC)
 
 
 patches PD (da Farnell)
