@@ -6,6 +6,8 @@ Perché codice? Possibilità espressive, creative, sperimentazione -> sound desi
 Liberi vs non-liberi
 [visual]-> concetti applicabili non solo a materiale audio ma a qualsiasi input si dà al computer.
 
+OSC & MIDI
+
 - SW only: [15 min]
   Algoritmi, musica procedurale, musica generativa.
   controllo pieno sul comportamento
@@ -22,7 +24,14 @@ Liberi vs non-liberi
 
 - SW + HW [20 min]
 	-soundface:
+	
 		* struttura/architettura
 		* fuducials
 		* patches (PD e/o SC)
 
+
+patches PD (da Farnell)
+patches SC 
+sonic pi preparare scene
+touchboard SD card [+ interazione OSC]
+interfaccia USB MIDI con Arduino
